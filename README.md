@@ -12,7 +12,7 @@ Foi utilizado o algoritmo **k-means** para demonstrar o conceito dos algoritmos 
 E o resultado: 
 ![Context Menu](image/ResultadoKMeans.PNG)
 
-Para demostrar os conceitos dos algoritmos de Aprendizado de Máquina Supervisionado, utilizei uma **Rede Neural** e um **SVM** (_Support Vector Machines_). Tive os resultados: 
+Para demonstrar os conceitos dos algoritmos de Aprendizado de Máquina Supervisionado, utilizei uma **Rede Neural** e um **SVM** (_Support Vector Machines_). E os resultados, foram: 
 
 **Rede Neural**: 
 ![Context Menu](image/RNA.PNG)
