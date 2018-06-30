@@ -18,5 +18,5 @@ Para demonstrar os conceitos dos algoritmos de Aprendizado de Máquina Supervisi
 ![Context Menu](image/RNA.PNG)
 
 
-**SVN**:
+**SVM**:
 ![Context Menu](image/ResultadoSVM.PNG)
