@@ -1,5 +1,5 @@
-# Introdução à Machine Learning - Itaú
-Demonstração que fiz na palestra que fiz no Itaú - Introdução à Machine Learning. 
+# Introdução à Machine Learning - Engenharia de Software do Itaú
+Demonstração que realizei na palestra para a equipe de Engenharia de Software do Itaú - Introdução à Machine Learning. 
 
 ## Dataset
 Para realizar a demonstração, utilizei o dataset Iris (https://archive.ics.uci.edu/ml/datasets/iris): 
@@ -20,3 +20,6 @@ Para demonstrar os conceitos dos algoritmos de Aprendizado de Máquina Supervisi
 
 **SVM**:
 ![Context Menu](image/ResultadoSVM.PNG)
+
+# Slide da apresentação
+[Introdução à Machine Learning - Engenharia de Software do Itaú](https://www.slideshare.net/slideshow/embed_code/key/uNOz5FHTcq2FQX)
